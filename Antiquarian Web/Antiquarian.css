@@ -1,0 +1,12 @@
+/* Webfont: Antiquarian */@font-face {
+    font-family: 'Antiquarian';
+    src: url('Antiquarian.eot'); /* IE9 Compat Modes */
+    src: url('Antiquarian.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Antiquarian.woff') format('woff'), /* Modern Browsers */
+         url('Antiquarian.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Antiquarian.svg#Antiquarian') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
